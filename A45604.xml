@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Remonstrance to the kingdome, or, An appeale to conscience, as thou wilt answer it at the dreadful day of judgement, whether it be lawfull to take up arms? &amp;c. written by J.H. souldier.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45604</idno>
+            <idno type="STC">Wing H80</idno>
+            <idno type="STC">ESTC R14421</idno>
+            <idno type="EEBO-CITATION">12279447</idno>
+            <idno type="OCLC">ocm 12279447</idno>
+            <idno type="VID">58616</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45604)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58616)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 868:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Remonstrance to the kingdome, or, An appeale to conscience, as thou wilt answer it at the dreadful day of judgement, whether it be lawfull to take up arms? &amp;c. written by J.H. souldier.</title>
+                  <author>J. H., souldier.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Watson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pacifism --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58616:1" rendition="simple:additions"/>
+            <p>A REMONSTRANCE TO THE KINGDOME, OR AN Appeale to Conſcience, As thou wilt anſwer it at the dreadfull day of Judgement: <hi>Whether it be lawfull to take up Arms? &amp;c.</hi>
+            </p>
+            <p>VVritten by <hi>J. H.</hi> Souldier.</p>
+            <p>
+               <hi>Read, and Judge.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Watſon.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:58616:2"/>
+            <pb facs="tcp:58616:2"/>
+            <head>
+               <hi>AN Appeal to thy Conſcience, As thou wilt anſwer it at the day of Iudgement,</hi> Whether it be not lawfull for a Nation to take up Armes, in the defence of Religion Law, and the Office of a King, &amp;c.</head>
+            <p>IT is the common diſcourſe, among thoſe that make ſeeming Loyalty to his Majeſty, their pretence of Malignancy to the Parliament, that it is unlawfull for a Subject to take up Arms a<g ref="char:EOLhyphen"/>gainſt his Prince, or a Parliament, (as they generally alledge) to raiſe an Army againſt a King, though never ſo wicked in his Life: nor never ſo tiranicall in his Government.</p>
+            <p>Under which pretence, they would manifeſt to his Majeſty and to the world, that it is their meere loyalty to his Majeſty that doth thus predominate in them, and not any ſiniſter end to themſelves, when on the contrary, I will inſtantly manifeſt unto you, by an un<g ref="char:EOLhyphen"/>deniable argument, that it is meerly a covetous deſire to ſecure them
+<pb facs="tcp:58616:3"/>ſelves from that charge, which the common callamity of this King<g ref="char:EOLhyphen"/>dome requires, and not love to the King, nor from any cauſe that they can really ground a hate or diſlike to the Parliament, or their proceedings.</p>
+            <p>You may be pleaſed to remember, that not many yeares ago, there was a <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Ship-money</hi> impoſed upon the Kingdome, which tax was pretended and avouched to be warrantable by Law, by ſome that are very active in this Warre againſt the Parliament, and and I am certain it was ſeconded with the Kings Authority, yet then you may remember what Generall muttering there was a<g ref="char:EOLhyphen"/>gainſt the King and Nobillity, one cried out, the lawes were abu<g ref="char:EOLhyphen"/>ſed, another wiſpered, the King was miſ-led by ☞ then theſe now ſtrong Royaliſts, were Anti-Rounheads, then their loyalty was not ſo great, neither were they ſo forward as they now pro<g ref="char:EOLhyphen"/>feſſe, (though in my conſcience they never intend any ſuch thing) to ſpend their lives and eſtates in the defence of his Majeſty, no, the very thought of parting with a little money, had baniſhed thoſe thoughts out of their Breſts, then God ſend us a Parliament, &amp;c. Now compare the time paſt, with the time preſent, God has been pleaſ'd to ſend them a Parliament who redreſſed thoſe grievances of which they ſo much complained, for which they thought them<g ref="char:EOLhyphen"/>ſelves deeply ingaged, but now the practiſes of thoſe perſons, be<g ref="char:EOLhyphen"/>fore mentioned, being grown to ſuch a dangerous head, that the neceſſity of the Kingdome enforceth the Parliament to leavy mo<g ref="char:EOLhyphen"/>ney for the rayſing and maintaining of Forces, to bring thoſe to condigne puniſhment, that were the authors of thoſe ſo much la<g ref="char:EOLhyphen"/>mented diſtractions both in Church and State, now they ſlip their necks out of the Collar, nay thinke they if they raiſe warre, wee muſt part with money, and therefore wee will ſtand for peace, they could have elſe no pretence for their malignity, thoſe men that they formerly ſo much complained of, are honeſt men, and good Pro<g ref="char:EOLhyphen"/>teſtants, and the Parliament is now the onely obſtacle, is not this apparent, canſt thou whatſoever thou art cleere thy ſelfe, where was thy Loyaty to thy King then, why dideſt thou not apply the
+<pb facs="tcp:58616:3"/>leſſon to thy ſelfe then, which now thou applieſt to others, <hi>(Give Caeſar his due)</hi> it is eaſily proved that he had as much right to that as to many things, which thou at this time pretendeſt to be due to him.</p>
+            <p>To beginne with thy main pretence, with which thou wouldeſt deceive the world, and doeſt deceive thy own Soule.</p>
+            <p>Thou pretendeſt that it is not lawfull for a Nation to take up Arms againſt a King miſ-led, in the maintenance of Religion, Law, the Office of a King, and ſafety of the Kingdome, when the Reli<g ref="char:EOLhyphen"/>gion, Lawes, and Office of a King are abuſed, and brought to ap<g ref="char:EOLhyphen"/>parent ruine.</p>
+            <p>
+               <hi>Object.</hi> But you will object that you ſe none of theſe things in danger, which are pretended.</p>
+            <p>
+               <hi>Solution.</hi> It is not unknown to thoſe that will not declare them<g ref="char:EOLhyphen"/>ſelves ignorant or wilfull, that there were ſeverall Innovations crept into our worſhip, and doctrine, nay they were inforced, and impoſed, by thoſe ſoule killing Prelates, whoſe Idolatrous crimes, being neither puniſhed, nor repented of, hath cauſed God to throw among us theſe Babels confuſions, this diverſity of tongues, and diverſity of opinions, each oppoſing other in the maintenance of that Religion which their Sophiſtry hath ſpoiled, and in ſo doing hath deſtroyed the whole Kingdome, and if the purging the Church of theſe innovations, and ſetting up a true worſhip, with the endea<g ref="char:EOLhyphen"/>vouring to bring thoſe to a legall triall, that were guilty of the ſaid miſdemeanors, to the end that they may receive the reward of their labour, be not agreeable to the lawes of God and the Kingdome, may eaſily be diſcerned.</p>
+            <p>The like argument may ſerve concerning the abuſe of the lawes, but I ſhall forbeare to mention the particulars thereof, onely I will appeale to thy own conſcience whether the lawes were not a<g ref="char:EOLhyphen"/>buſed, &amp; leave it to the to conſider by whom &amp; whoſe authority.</p>
+            <p>As touching the Kings Office, or the Office of the King, I ſhall inſiſt upon that, as the main thing which concerns this diſcourſe, and upon which this difference is grounded.</p>
+            <pb facs="tcp:58616:4"/>
+            <p>The Kings of England at their Coronation, ſweare ſolemnly to maintaine the Lawes of the Land, and to govern the Land accor<g ref="char:EOLhyphen"/>ding to the Lawes and Govenment thereof, ſo that it reſts not in the Kings power to alter the government of the Kingdome, and to bring in a new, for he muſt maintain the ancient eſtabliſhed Lawes of the Kingdome, and muſt governe by them, for the Lawes of the Kingdome, are the protection of the Subject, by which it is appa<g ref="char:EOLhyphen"/>rent, that it is the Office of a King, (to which he ſtands ingaged by his Oath taken at his Coronation) to preſerve the Lawes, and to govern by the Lawes, in which conſiſts the health and wealth, ipeace and ſecurity both of his Majeſty, his royall off ſpring, and the whole Kingdome.</p>
+            <p>Now if the King be wrought upon by evill Councell, ſo that he is drawn perſonally to make breach of the Lawes, which by his Office and Oath he is bound to preſerve, without all queſtion there is a dirivative power from the firſt Principle of Law, from which the People may claime a lawfull authority to uſe the moſt effectu<g ref="char:EOLhyphen"/>all meanes to preſerve themſelves with the Office of the King, and Lawes of the Kingdome, from the violence of the King ſo ſedued and miſ-led, for the Kingdomes ſafety is the ſupreame Law.</p>
+            <p>Now that the King was miſ-led we may ſuſpect, otherwiſe how came ſo many Projects to be granted under the great Seal, which Projects granted by his Majeſty were great breaches of the Lawe, and great oppreſſions to the Subject, and contrary to the Office of a King, which is to preſerve the Subject from oppreſſion, and to maintain the Lawes in full force and vertue.</p>
+            <p>And the King and Kingdome being thus abuſed by evill Coun<g ref="char:EOLhyphen"/>cellors, to whom could we the oppreſſed Subject appeale, if we did attempt to petition his Majeſty, we ſhould meet with ſo many bribe taking Courtiers, between the Porters Lodge and the Preſence, that either we wanted money to purchaſe preferrers, or elſe through the multiplicity of hands, our Petition was preſented to God knowes who, and we had an anſwer God knowes when, ſo that deſpairing of redreſſe, we were forced to return home to repent, or at leaſt to
+<pb facs="tcp:58616:4"/>lament the abuſe of Juſtice. If we petitioned the Judges, (eſpeci<g ref="char:EOLhyphen"/>ally the major part of them) they muſt have a Bribe too, and at laſt, after foure or five Termes attendance, we ſhould have anſwer re<g ref="char:EOLhyphen"/>turned (contrary to all reaſon) that the Lawes were ſo, and wee muſt ſuffer. Thus at all hands the Lawes were abuſed, and moſt were officious to conceale the complaint of the Subject, the King muſt not know the truth, all was Law, all was for the good of the Subject, when their chiefe Deſigne was, at one blow to deſtroy the Religion, Law, Office, Authority, and Libertie, both of King, Parliament, and People.</p>
+            <p>The King and Kingdome being thus involved, and intangled in theſe deſtructive Strattagems, the Lawes of the Kingdome having loſt their power, and all things being become a Chaos of diſorder, what <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall be uſed to reduce things to their firſt Order, for certainly (although the King neglect it) the Kingdome may, and ought to take order for its own ſafety, why ſurely a Parliament (in which is repreſented the whole Body of the Kingdome) muſt be the ſafeſt, and moſt effectuall meanes, to redreſſe former, and pre<g ref="char:EOLhyphen"/>vent future evills, now this Parliament carries with it a neere re<g ref="char:EOLhyphen"/>ſemblance to the compoſition of the Government of this Nation, being compounded of three degrees, the King, the Peeres, and Commons, all which ſhould joyn together in the regulating and reforming thoſe things which were ſo burthenſome to the Com<g ref="char:EOLhyphen"/>mon-wealth, but if the King ſhall neglect to joyn with his great Counſell, the Lords and Commons of the Kingdome, and ſhall adhere to thoſe evill Councellours, which have been the authors of thoſe former evils, for reforming of which the Parliament was called, and ſhall not onely neglect the Office of a King, which is to preſerve the lawes and People from oppreſſion, but ſhall joyn with thoſe perſons, which have been ſuch apparent Enemies to himſelfe and the whole Kingdome, in the abetting and maintaining thoſe lawleſſe practiſes againſt the Parliament, and ſo conſequently a<g ref="char:EOLhyphen"/>gainſt the whole Kingdome: Now ſpeake thy Conſcience, without feare or flattery, as thou wilt anſwer it at the dreadfull day of
+<pb facs="tcp:58616:5" rendition="simple:additions"/>Judgement, where all ſecrets ſhall be known, whether thou think<g ref="char:EOLhyphen"/>eſt it moſt warrantable to joyn with a King ſo miſ-led, in the main<g ref="char:EOLhyphen"/>tenance of ſuch a cauſe, undertaken by Papiſts and their adherents, Projectors, and their dependents, Delinquents and deboiſt and deſpicable perſons, or to ioyn with a Parliament, which hath re<g ref="char:EOLhyphen"/>formed all thoſe former practizes and abuſes, and doth endeavour to prevent the like practiſes for the Future, and doth dayly labour to maintain the lawes in force, with the iuſt Authority of the King, to the glory of God, and the good of the whole Kingdome, now iudge I ſay whether it be lawfull for the Parliament, which is the repreſentative Body of the Kingdome, and was called together to conſult and conclude of thoſe affaires which did conduce moſt un<g ref="char:EOLhyphen"/>to the ſecurity both of King and Kingdome: Now Judge I ſay whether it be not lawfull for them, in the behalfe of the King and his juſt Authority, the Lawes of the Land, and the Kingdome in generall, (all which are indangered by this abuſed authority) to raiſe an Army to oppoſe thoſe perſons who have thus abuſed the King, in telling him that was Law which was oppreſſion, have cauſed him to neglect his Office, and abuſe his power, in giving way to have an Army rayſed againſt himſelfe, his Parliament and People, to protect them from the cenſure of the Law, making a way to their own ſecurity, through the ruine of his Majeſty, and the whole Kingdome, and if (as I conceive, thou muſt be convinc'd for Conſcience muſt ſtrike a true alarum) thou findeſt thy owne errour, baniſh that covetous deſire out of thy heart, and ſeem not loyall from the teeth outward, let not thy Purſe onely, be imployed in forwarding this acceptable ſervice, but if thou art of ability, let thy Perſon ſecond thy Purſe, for know it for a truth, in ſo do<g ref="char:EOLhyphen"/>ing, thou ſhalt do God, thy King, thy Country, and thy Soule good ſervice, &amp; it ſhall be imputed to the for good, and not for evill, when <hi>Haman</hi> ſhall be hanged, then <hi>Mordecay</hi> ſhall be cloathed in the Kings Garments, and the religious <hi>Jewes,</hi> reſpected by their gracious Soveraign.</p>
+            <closer>God ſave the King and Parliament.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
